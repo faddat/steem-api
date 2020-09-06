@@ -16,7 +16,7 @@
     "get-parameter-names": "^0.3.0",
     "lodash": "^4.14.1",
     "moment": "^2.14.1",
-    "morgan": "~1.7.0",
+    "morgan": "~1.10.0",
     "node-sass-middleware": "^0.9.8",
     "nodemon": "^1.10.0",
     "steem": "^0.2.18"
